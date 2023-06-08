@@ -1,2 +1,2 @@
 #!/bin/bash
-chimod ug+x,o+r hello
+chimod u+xg+xo+r hello
